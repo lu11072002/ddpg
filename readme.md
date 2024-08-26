@@ -2,9 +2,9 @@
 
 Implementation of DDPG (Deep Deterministic Policy Gradient) for the monotask and multitask.
 
-![Reach environement](/depot-github/readme-images/reach.gif "Reach environement")
-![Drawer close environement](/depot-github/readme-images/drawer-close.gif "Drawer close environement")
-![window open environement](/depot-github/readme-images/window-open.gif "window open environement")
+![Reach environement](https://github.com/lu11072002/ddpg/blob/main/readme-images/reach.gif "Reach environement")
+![Drawer close environement](https://github.com/lu11072002/ddpg/blob/main/readme-images/drawer-close.gif "Drawer close environement")
+![window open environement](https://github.com/lu11072002/ddpg/blob/main/readme-images/window-open.gif "window open environement")
 
 ## Training
 
@@ -14,11 +14,11 @@ For all the environement, a pramaters file was created for a better customizatio
 
 ### Monotask
 
-![Monotask](/depot-github/readme-images/graph_OneForEach.jpg "Monotask")
+![Monotask](https://github.com/lu11072002/ddpg/blob/main/readme-images/graph_OneForEach.jpg "Monotask")
 
 ### Multitask
 
-![Multitask](/depot-github/readme-images/graph_OneForAll.jpg "Multitask")
+![Multitask](https://github.com/lu11072002/ddpg/blob/main/readme-images/graph_OneForAll.jpg "Multitask")
 
 ### Example script
 
